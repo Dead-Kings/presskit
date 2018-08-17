@@ -3,11 +3,11 @@ STONE Presskit
 
 Current Includes (17th of August 2018)
 
-LICENSE
-Stone_256x256.png
-Stone_512x512.png
-stone_logo_horizontal.png
-stonesplash.png
+[LICENSE](https://github.com/stonecoinproject/presskit/blob/master/LICENSE)
+[Stone_256x256.png](https://github.com/stonecoinproject/presskit/blob/master/Stone_256x256.png)
+[Stone_512x512.png](https://github.com/stonecoinproject/presskit/blob/master/Stone_512x512.png)
+[stone_logo_horizontal.png](https://github.com/stonecoinproject/presskit/blob/master/stone_logo_horizontal.png)
+[stonesplash.png](https://github.com/stonecoinproject/presskit/blob/master/stonesplash.png)
 
 ### STONE Links:
 - Website: http://www.stonecoin.rocks/ ( in progress )
