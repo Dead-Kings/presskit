@@ -23,7 +23,7 @@ Current Includes (17th of August 2018)
 - Steemit: https://steemit.com/@stonecoin
 - Twitter: https://twitter.com/CoinRocks
 - Telegram: https://t.me/STONECOIN
-- Discord: https://discord.gg/Ab4rDQH
+- Discord: https://discord.gg/GVcMcng
 
 ### Exchanges:
 - CryptoBridge: https://wallet.crypto-bridge.org/market/BRIDGE.STONE_BRIDGE.BTC
